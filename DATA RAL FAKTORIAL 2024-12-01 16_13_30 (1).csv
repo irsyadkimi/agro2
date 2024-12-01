@@ -1,0 +1,49 @@
+Ulangan,Jenis Pestisida (A),Dosis (B),Tingkat Serangan Hama (%)
+1,Pestisida Kimia,Dosis Rendah,57.49
+1,Pestisida Kimia,Dosis Sedang,49.01
+1,Pestisida Kimia,Dosis Tinggi,24.64
+1,Pestisda Kimia,Kontrol,81.97
+1,Pestisida Organik,Dosis Rendah,43.12
+1,Pestisida Organik,Dosis Sedang,32.12
+1,Pestisida Organik,Dosis Tinggi,5.87
+1,Pestisida Organik,Kontrol,87.32
+1,Nabati Mimba,Dosis Rendah,52.02
+1,Nabati Mimba,Dosis Sedang,34.16
+1,Nabati Mimba,Dosis Tinggi,5.31
+1,Nabati Mimba,Kontrol,89.4
+1,Kontrol,Dosis Rendah,66.65
+1,Kontrol,Dosis Sedang,34.25
+1,Kontrol,Dosis Tinggi,13.64
+1,Kontrol,Kontrol,76.67
+2,Pestisida Kimia,Dosis Rendah,46.08
+2,Pestisida Kimia,Dosis Sedang,30.5
+2,Pestisida Kimia,Dosis Tinggi,11.48
+2,Pestisda Kimia,Kontrol,75.82
+2,Pestisida Organik,Dosis Rendah,52.24
+2,Pestisida Organik,Dosis Sedang,22.79
+2,Pestisida Organik,Dosis Tinggi,9.38
+2,Pestisida Organik,Kontrol,77.33
+2,Nabati Mimba,Dosis Rendah,59.12
+2,Nabati Mimba,Dosis Sedang,45.7
+2,Nabati Mimba,Dosis Tinggi,13.99
+2,Nabati Mimba,Kontrol,80.28
+2,Kontrol,Dosis Rendah,51.85
+2,Kontrol,Dosis Sedang,20.93
+2,Kontrol,Dosis Tinggi,14.11
+2,Kontrol,Kontrol,73.41
+3,Pestisida Kimia,Dosis Rendah,41.3
+3,Pestisida Kimia,Dosis Sedang,38.98
+3,Pestisida Kimia,Dosis Tinggi,19.48
+3,Pestisda Kimia,Kontrol,86.17
+3,Pestisida Organik,Dosis Rendah,50.45
+3,Pestisida Organik,Dosis Sedang,24.9
+3,Pestisida Organik,Dosis Tinggi,12.87
+3,Pestisida Organik,Kontrol,78.89
+3,Nabati Mimba,Dosis Rendah,46.75
+3,Nabati Mimba,Dosis Sedang,22.81
+3,Nabati Mimba,Dosis Tinggi,
+3,Nabati Mimba,Kontrol,
+3,Kontrol,Dosis Rendah,
+3,Kontrol,Dosis Sedang,
+3,Kontrol,Dosis Tinggi,
+3,Kontrol,Kontrol,
